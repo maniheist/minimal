@@ -8,4 +8,4 @@ A file sharing application enables users to upload, download, and manage digital
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maniheist/mani-file-sharing-application)
 
-<center><img src="images/fraud_detection.jpg"/></center>
+<center><img src="assets/img/file_sharing.jpg"/></center>
