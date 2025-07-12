@@ -1,13 +1,6 @@
-title: <p align="center"> Mani Sankar Reddy Kalluri </p>
-logo: /assets/img/year book image.jpg
-
-description:
-  <p align="center">
-  <a href="https://github.com/maniheist">GitHub</a>
-  
-  <br>   
+title: Mani Sankar Reddy Kalluri
+logo: /assets/img/year%20book%20image.jpg
+description: >
   I'm working on backend applications, building scalable systems with a focus on performance, security, and data handling.
-I work extensively with technologies like Big Data, Apache Spark, and distributed systems, solving real-time processing problems.
-  <br>
-  </p>
+  I work extensively with technologies like Big Data, Apache Spark, and distributed systems, solving real-time processing problems.
 theme: jekyll-theme-minimal
